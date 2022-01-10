@@ -2,13 +2,13 @@
 
 In this repo you will find :
 - Example Powerful Automation Script
-- AI
-
+- Voice Recognition for Multitasking 
+---
 ## Example Powerful Automation Script
 
-Go for Google Colab :
+Open in Google Colab :
 
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1rAsV3eQiRXLVMaMU0CRapVhdCzrY7EZJ?usp=sharing)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rAsV3eQiRXLVMaMU0CRapVhdCzrY7EZJ?usp=sharing)
 ---
 An Automation Script using Python and Jupyter Notebook .
 
@@ -21,3 +21,7 @@ An Automation Script using Python and Jupyter Notebook .
 - Useful for Automated Testing , Dictionary Machine Learning , DataScience, Bot Concept and Render Field
 
 use only for legal content activity
+
+---
+
+## Voice Recognition for Multitasking
