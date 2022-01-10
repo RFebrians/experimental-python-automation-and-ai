@@ -1,4 +1,8 @@
-# example-python-automation
+# Experimental Python Automation and AI
+
+In this repo you will find :
+- Example Powerful Automation Script
+- AI
 
 ## Example Powerful Automation Script
 
